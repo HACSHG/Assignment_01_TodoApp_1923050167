@@ -6,6 +6,8 @@
 - **Mã số sinh viên (MSSV)**: 1923050167
 - **Môn học**: Lập trình ứng dụng di động (Mobile Application Development)
 - **Framework**: React Native (Expo)
+- **GitHub Repository**: https://github.com/HACSHG/Assignment_01_TodoApp_1923050167
+- **Expo Snack Online**: https://snack.expo.dev/nTTCaWx7Xlymj7UwzMuGv
 
 ---
 
